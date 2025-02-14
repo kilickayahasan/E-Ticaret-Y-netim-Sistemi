@@ -13,5 +13,8 @@ Bu proje, temel bir e-ticaret yönetim sistemidir. Kullanıcı girişi, ürün e
 2. Kullanıcı girişi yapın veya yeni hesap oluşturun.
 3. Ürün ekleme, silme ve listeleme işlemlerini gerçekleştirin.
 
-## 📩 İletişim
-Herhangi bir öneriniz veya sorunuz varsa benimle iletişime geçebilirsiniz!
+
+
+## 📫 Bana Ulaşın
+🔗 [GitHub](https://github.com/kilickayahasan)  
+📧 hasankilickaya44@gmail.com  
